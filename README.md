@@ -3,7 +3,7 @@
 ## Playground
 
 Solve the _Playground_ challenge.eb-exercises/tree/main/sessions/css-responsive/playground
-```
+
 
 In this challenge you'll get to play around a bit with some responsive features such as relative
 units and different types of media queries. Take a look at the requirements stated as part of each
